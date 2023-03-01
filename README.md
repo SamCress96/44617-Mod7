@@ -19,3 +19,4 @@
 7. Create a callback function like the one created for the outage consumer
 8. Set perameters for identifying if power was restored in time.
 9. Consumer 2 will identify if power has been restored in time. 
+![module 7](https://user-images.githubusercontent.com/111606778/222028815-e924254a-e66b-442d-be10-3b9dd8a70fde.png)
